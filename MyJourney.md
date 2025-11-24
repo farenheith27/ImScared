@@ -55,6 +55,7 @@ Today I started doing basic things. Maybe a list should be optimal to get them d
   - [x] Set up .gitignore
   - [x] Updated bio
   - [x] Wrote down this Journal first-step
+
 The next step for this evening is to find the source of every book/paper/video/... into the "Study Sources" database, then go to sleep.
 I'm excited as a kid with a new toy, if I know myself good enough I'm gonna get frustrated in very little time _and that's gonna be the hard challenge_.
 
