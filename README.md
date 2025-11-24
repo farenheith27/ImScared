@@ -44,7 +44,18 @@ _what makes the challenge challenging_
 - Think about next weekly branch title
 
 # Modules
-### WEEK ZERO - Setup
+#### Checklist
+- [ ] WEEK ZERO - Setup
+- [ ] Module 1 - Math basics
+- [ ] Module 2 - Python from beginning to intermediate
+- [ ] Module 3 - Cryptography from classical to modern
+- [ ] Module 4 - Data structure and distributed systems
+- [ ] Module 5 - Blockchain fundamentals
+- [ ] Module 6 - Rust
+- [ ] Module 7 - Smart Contracts: Solana + Move
+- [ ] Module 8 - Final Project
+
+## WEEK ZERO - Setup
 The main goal of this week is setting up the workstation.
 - [x] Setting up Notion
 - [x] Setting up GitHUB repository
