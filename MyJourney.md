@@ -62,3 +62,11 @@ I'm excited as a kid with a new toy, if I know myself good enough I'm gonna get 
 I'm not gonna say I'll update this Journal everyday, especially because I don't know how much time I really have and also some days I'll just read a ton.
 This Journal is gonna be half-recap and half-diary. I like that.
 Cya.
+
+# Day 4 - 28th November
+After 3 days of vaction I got back to work. I've just finished my bibliography and every _(free)_ study material now is saved as PDF on iBooks, as Favourite on GitHub or has a link in the Notion database. I did not realize how hard was going to be finding every source, as you can read between the lines this work didn't finished four days ago during a cozy evening in the hotel where I slept for work. 
+
+The hardest ones to find were the non-english source, I needed to switch and search the english version for most of them. I could have predicted that. Tomorrow I'm gonna update the Wiki of this repository with a dedicated page for my sources, they're all completely free and I think it's gonna be nice to gather all of them into one page.
+
+Getting out of the train and taking my walk home.
+Project is growing. Slowly but consistently.
