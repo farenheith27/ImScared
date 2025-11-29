@@ -1,5 +1,5 @@
 # ImScared
-Just a self-made course about cryptography. I’m trying to convince myself I can understand the basics in a very short time. Sort of a challenge, a masochistic one.
+That's a self-made course about cryptography. I’m trying to convince myself I can understand the basics in a very short time. Sort of a challenge, a masochistic one.
 
 First of all, I'm not an English native speaker but I'm gonna try go full English because the whole idea itself isn't bad enough for my mental health.
 
@@ -47,12 +47,12 @@ _what makes the challenge challenging_
 #### Checklist
 - [ ] WEEK ZERO - Setup
 - [ ] Module 1 - Math basics
-- [ ] Module 2 - Python from beginning to intermediate
-- [ ] Module 3 - Cryptography from classical to modern
+- [ ] Module 2 - Basic to intermediate Python
+- [ ] Module 3 - Classical to modern Cryptography
 - [ ] Module 4 - Data structure and distributed systems
 - [ ] Module 5 - Blockchain fundamentals
 - [ ] Module 6 - Rust
-- [ ] Module 7 - Smart Contracts: Solana + Move
+- [ ] Module 7 - Smart Contracts: Solana & Move
 - [ ] Module 8 - Final Project
 
 ## WEEK ZERO - Setup
