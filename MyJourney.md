@@ -70,3 +70,21 @@ The hardest ones to find were the non-english source, I needed to switch and sea
 
 Getting out of the train and taking my walk home.
 Project is growing. Slowly but consistently.
+
+# Day 5 - 29th November - 23.40
+Today I focused on writing down the Resource page of the wiki. My idea is to keep it updated when needed with new papers/books/videos I find useful for my learning. The list is full of elements, lots of them will not be used/useful but I preferred to start with more than one resource for some arguments, so I'll be sure to have at least one valid to use.
+
+I got done the setup of my iPad also, as you can see not everything was installed because I'd like to master one working tool at a time so I made choices about them (the opposite of what I did with my resources). It will be nice to add links for every voice of the list but I'll keep this for when I'm bored but still want to be productive.
+
+I'm seeing a lot of things to read and learn and I'm starting to get scared for real. Writing is keeping me easy as it always did in my life. I hope tomorrow to be able to setup my iMac also and finish my Week 0. I'm so excited to begin with Math. That will not be a problem anyway because the first things I need are just my textbooks and my exercise book, but I know myself good enough to understand that procrastinating is one of the worst enemies for my learning. 
+
+I've just decided to add the hours I write those diary pages. Because why not?
+_...aaaaaand I fixed some minor syntax on the README.md file._
+
+I hate the moments while I'm doing nothing, I don't care if its because I won't or because I can't (today I was away working my job and my iMac was at home), they're just inevitable and I don't like them. My head is gonna have some bad times during this journey, I just want to go harder when I'm doing good and relax on the PlayStation when I'm doing worse. I can't decide how to feel anyway.
+
+This morning I made pancakes for my fiancee. Next morning will be dedicated to physical exercise, piano learning and iMac setupping. Keeping on everything is hard but hell yeah I fucking love going to bed literally smashed from fatigue. 
+
+It makes me feel alive.
+
+Keep it on pals, see you soon.
