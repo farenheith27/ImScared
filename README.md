@@ -7,7 +7,7 @@ This repo is gonna change frequently with updates of my journey, what I understo
 
 The entire course is structured by AI, while the repository files are all self-made.
 
-# Objectives (at 24th novembre - Day 1)
+# Objectives (at 24th November - Day 1)
 1. Learning something
 2. Getting down again in advanced math arguments I forgot
 3. Understanding code, automation, algorithmics
@@ -72,14 +72,14 @@ The main goal of this week is setting up the workstation.
     - [ ] argon2-cffi
     - [ ] matplotlib
     - [ ] pytest
-  - [ ] Cloud setup
+  - [x] Cloud setup
     - [x] GitHUB Codespaces
-    - [ ] Replit
-    - [ ] Google Colab 
-- [ ] Setting up iPad
+    - [ ] ~Replit~
+    - [ ] ~Google Colab~ 
+- [x] Setting up iPad
   - [x] Notion Dashboard
   - [x] GitHUB app
-  - [ ] Juno Connect
-  - [ ] Carnets
-  - [ ] Working Copy + a-Shell
+  - [x] ~Juno Connect~ Juno _(offline Python, free)_
+  - [ ] ~Carnets~
+  - [x] Working Copy ~+ a-Shell~
   - [x] VS Code Web / GitHub Codespaces
