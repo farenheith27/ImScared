@@ -45,7 +45,7 @@ _what makes the challenge challenging_
 
 # Modules
 #### Checklist
-- [ ] WEEK ZERO - Setup
+- [x] WEEK ZERO - Setup
 - [ ] Module 1 - Math basics
 - [ ] Module 2 - Basic to intermediate Python
 - [ ] Module 3 - Classical to modern Cryptography
