@@ -88,3 +88,13 @@ This morning I made pancakes for my fiancee. Next morning will be dedicated to p
 It makes me feel alive.
 
 Keep it on pals, see you soon.
+
+# Day 6 -> 7 (aka Day 7 -> 8) - 1st December - 00.37
+I had some issues installing everything. You could have bet on this.
+I marked "week 0" as completed anyway, but tomorrow I'll check if everything is working correctly before marking every element on the "iMac setup".
+
+Tomorrow is also the day we start for real. Damn it's happening.
+I'm really tired, just finished working and I'm ready for my 15 minutes walk home, where I'll drink something and smoke a cigarette.
+Cya tomorrow with Math.
+
+Hell yeah.
