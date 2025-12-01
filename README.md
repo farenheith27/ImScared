@@ -60,18 +60,18 @@ The main goal of this week is setting up the workstation.
 - [x] Setting up Notion
 - [x] Setting up GitHUB repository
 - [x] Writing down a weekly study routine
-- [ ] Setting up iMac
-  - [ ] Visual Studio Code Web
-  - [ ] Homebrew Catalina-friendly
-  - [ ] Python 3.9
-  - [ ] Virtualenv
-  - [ ] Libraries
-    - [ ] jupyterlab
-    - [ ] cryptography
-    - [ ] pysha3
-    - [ ] argon2-cffi
-    - [ ] matplotlib
-    - [ ] pytest
+- [x] Setting up iMac
+  - [ ] ~Visual Studio Code Web~
+  - [x] Homebrew Catalina-friendly
+  - [x] Python 3.9.13
+  - [x] Virtualenv
+  - [x] Libraries
+    - [x] jupyterlab
+    - [x] cryptography
+    - [x] pysha3
+    - [x] argon2-cffi
+    - [x] matplotlib
+    - [x] pytest
   - [x] Cloud setup
     - [x] GitHUB Codespaces
     - [ ] ~Replit~
