@@ -98,3 +98,13 @@ I'm really tired, just finished working and I'm ready for my 15 minutes walk hom
 Cya tomorrow with Math.
 
 Hell yeah.
+
+# Day 8 - 1st December - 17.40
+First day of Math Module, we're gonna plan the week. I decided to go ghost mode reading the first chapters of my Math books to finish fast the easy parts and have more time to focus on the hardest one. I'll dedicate the whole week to this.
+
+As predicted, Python installation was corrupted and some files were missing (like the whole virtualenv). I should have used venv but to fix everything this morning I decided to reinstall the whole components using the official installer. We now have Python 3.9.13 on the iMac and virtualenv, just the libraries are missing but I'll fix them asap.
+
+Time to go through Math, I'll open a new branch dedicated to the Module 1 and work on that. Just, how am I supposed to keep updated the branch? Drawing is hard and heavy (speaking about file size), I have to find a way to upload my notes without putting too much on the repository. For now I'll just work on my exercise book while thinking how to do this.
+
+Let's see how much I actually forgot about Math.
+Wish me luck.
