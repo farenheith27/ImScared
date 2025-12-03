@@ -1,5 +1,5 @@
 # ImScared
-Just a self-made course about cryptography. I’m trying to convince myself I can understand the basics in a very short time. Sort of a challenge, a masochistic one.
+That's a self-made course about cryptography. I’m trying to convince myself I can understand the basics in a very short time. Sort of a challenge, a masochistic one.
 
 First of all, I'm not an English native speaker but I'm gonna try go full English because the whole idea itself isn't bad enough for my mental health.
 
@@ -7,7 +7,7 @@ This repo is gonna change frequently with updates of my journey, what I understo
 
 The entire course is structured by AI, while the repository files are all self-made.
 
-# Objectives (at 24th novembre - Day 1)
+# Objectives (at 24th November - Day 1)
 1. Learning something
 2. Getting down again in advanced math arguments I forgot
 3. Understanding code, automation, algorithmics
@@ -45,14 +45,14 @@ _what makes the challenge challenging_
 
 # Modules
 #### Checklist
-- [ ] WEEK ZERO - Setup
+- [x] WEEK ZERO - Setup
 - [ ] Module 1 - Math basics
-- [ ] Module 2 - Python from beginning to intermediate
-- [ ] Module 3 - Cryptography from classical to modern
+- [ ] Module 2 - Basic to intermediate Python
+- [ ] Module 3 - Classical to modern Cryptography
 - [ ] Module 4 - Data structure and distributed systems
 - [ ] Module 5 - Blockchain fundamentals
 - [ ] Module 6 - Rust
-- [ ] Module 7 - Smart Contracts: Solana + Move
+- [ ] Module 7 - Smart Contracts: Solana & Move
 - [ ] Module 8 - Final Project
 
 ## WEEK ZERO - Setup
@@ -60,26 +60,26 @@ The main goal of this week is setting up the workstation.
 - [x] Setting up Notion
 - [x] Setting up GitHUB repository
 - [x] Writing down a weekly study routine
-- [ ] Setting up iMac
-  - [ ] Visual Studio Code Web
-  - [ ] Homebrew Catalina-friendly
-  - [ ] Python 3.9
-  - [ ] Virtualenv
-  - [ ] Libraries
-    - [ ] jupyterlab
-    - [ ] cryptography
-    - [ ] pysha3
-    - [ ] argon2-cffi
-    - [ ] matplotlib
-    - [ ] pytest
-  - [ ] Cloud setup
+- [x] Setting up iMac
+  - [ ] ~Visual Studio Code Web~
+  - [x] Homebrew Catalina-friendly
+  - [x] Python 3.9.13
+  - [x] Virtualenv
+  - [x] Libraries
+    - [x] jupyterlab
+    - [x] cryptography
+    - [x] pysha3
+    - [x] argon2-cffi
+    - [x] matplotlib
+    - [x] pytest
+  - [x] Cloud setup
     - [x] GitHUB Codespaces
-    - [ ] Replit
-    - [ ] Google Colab 
-- [ ] Setting up iPad
+    - [ ] ~Replit~
+    - [ ] ~Google Colab~ 
+- [x] Setting up iPad
   - [x] Notion Dashboard
   - [x] GitHUB app
-  - [ ] Juno Connect
-  - [ ] Carnets
-  - [ ] Working Copy + a-Shell
+  - [x] ~Juno Connect~ Juno _(offline Python, free)_
+  - [ ] ~Carnets~
+  - [x] Working Copy ~+ a-Shell~
   - [x] VS Code Web / GitHub Codespaces
