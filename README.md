@@ -43,6 +43,17 @@ _what makes the challenge challenging_
   - What is not clear
 - Think about next weekly branch title
 
+# AI Used
+### ChatGPT
+> _from the beginning_
+- Course structure
+- Study materials (half of them, I found by myself the others)
+- Main assistant for the process
+
+### Google Gemini
+> _since 3.12.2025_
+- Explanation of topics
+
 # Modules
 #### Checklist
 - [x] WEEK ZERO - Setup
@@ -83,3 +94,18 @@ The main goal of this week is setting up the workstation.
   - [ ] ~Carnets~
   - [x] Working Copy ~+ a-Shell~
   - [x] VS Code Web / GitHub Codespaces
+
+## Module 1 - Math "basics" (edit: added a lil sarcasm)
+I started with a clear idea in mind. I don't know if one month is enought (don't think so) but let's see where we get.
+
+ChatGPT has a big limitation of chats and file upload that slows down my momentum, I started using Google Gemini to better understand topics I read.
+
+My idea is to keep my notes written down as much as possible inside the dedicated folder on the "module-1" branch, then give order and better look to what I learn before putting it into the Wiki. I hope to do a nice job with Mermaid that's something completely new for me and it's not part of my study.
+
+### First week
+This week is about getting over math again. I'll start with stes, logic, algebra, and some probability (if I have time).
+
+Goal is to feel confident again with math and learn what's missing.
+
+#### Books started
+L. Battaia - _"Matematica di base"_
