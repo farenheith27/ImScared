@@ -122,6 +122,10 @@ Used in predicates operations
 - **exist!**
   > there is one and only one
 
+- MORE: **such that**
+  > written as **|**
+  > commonly used as its literal meaning
+
 > [!important]
 > When using more quantifiers, their order matters <br>
 > <br>
@@ -179,7 +183,7 @@ We'll go with basic understanding of what they mean <br>
 Words that cannot be defined without other words, because they're meaning have no explication outside a vicious circle of words
 > <br> **Example** _(translated from a research on an Italian Dictionary)_
 > <br> **Point**: primitive element of geometry, with no _dimensions_
-> <br> **Dimension*+: relative _extent_ of something
+> <br> **Dimension**: relative _extent_ of something
 > <br> **Extent**: _space_, surface
 > <br> **Space**: _extent_ of...
 
@@ -237,3 +241,51 @@ They're different from Primitives because they use Primitives or proved Th. to d
 That's a simplification of the term.
 
 ## 1.5 Sets
+#### Definition
+We take "Set" as a Primitive.
+We can write _x **belongs to** A_ to indicate that _x_ is inside the _A_ set. Its negation is written _x ~**belongs to**~ A_.
+
+> for notes sake I'll write **belongs to** as **bt**
+
+Sets are equal if and only if they have the same elements:
+<br> _A = B_ <=> _(**for every** x, x **bt** A <=> x **bt** B)_
+
+An empty set is indicated with **0**. Because of the rules about equality, there can only be one empty set.
+
+Sets can be defined by:
+1. Extensive notation
+  - Write down all the elements of the set
+  - _A = {1, 2, 3, 4, 5}
+2. Intensive notation
+  - Indicate a common characteristic of the elements
+  - _A = {x | x **bt** N **et** 0 < x < 6}
+    - Commonly used for infinte sets or subsets
+    - The common characteristic is a Predicate _P(x)_ and the set _A_ contains the values _x_ that makes _P(x) TRUE_
+
+#### Subsets
+> [!note]
+> Gemini helped me with that, I thought a set could be one or another
+> <br> The truth is that Proper Subset is a type of Subset, a more accurate way to call it
+
+There are two names:
+- **Subset**:
+  - Every element of A is inside B
+  - A is a subset of A
+  - 0 is a subset of 0
+- **Proper subset**
+  - Every element of A is inside B
+  - B has at least one more element
+- **Power set**
+  - A set containing every possible subset of a given set
+ 
+
+> [!tip]
+> There's a fascinating thing that this book speaks about that I've never heard before or at least I've never read it in the same way I'm reading it now:
+> <br> Given that 0 is a subset for every set, writing the Power Set of 0 enhance the cardinality of every Power Set built increase exponentially
+> <br> 0, 0 elements
+> <br> P(0) = {0}, 1 element
+> <br> P(P(0)) = {0, {0}} 2 elements
+> <br> P(P(P(0))) = {0,{0},{{0}},{0,{0}}}, 4 elements
+> <br> ...
+
+## 1.6 Sets operator
