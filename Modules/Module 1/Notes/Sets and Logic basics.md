@@ -289,3 +289,56 @@ There are two names:
 > <br> ...
 
 ## 1.6 Sets operator
+### Definitions
+- **Union**
+  - Given A and B, their **union** is a set with all A elements and B elements
+  - A **union** B is _{x | x **bt** A **vel** x **bt** B}_
+- **Intersection**
+  - Given A and B, their **intersection** is a set with all elements belonging to A and B
+  - A **intersection** B is _{x | x **bt** A **et** x **bt** B}_
+- **Disjoint sets**
+  - When A **intersected** B is empty
+
+> [!note]
+> Asked Gemini for the followings
+
+- **Index Set**
+  - Set made of every possible value of the index for a **Family of Set**
+  - Written as _A = {"values"}
+- **Family of Set**
+  - Written as _{Aa | a **bt** A}_
+    > [!important]
+    > Working with FoS means having a function that takes an index as imput and gives back a set as an output
+  - **Finite**
+    - _A = {1, 2, 3}_
+    - _An = {**for every** x | x **bt** N, x =< n}_
+    - _A1 = {1}_
+    - _A2 = {1, 2}_
+    - _A3 = {1, 2, 3}_
+  - **Infinite**
+    - _A = {1, 2, 3, ...}_
+    - _Bn = {**for every** x | x **bt** N, 0 =< x =< 1/n}_
+    - _B1 = {0, 1}_
+    - _B2 = {0, 1, 1/2}_
+    - _B3 = {0, 1, 1/2, 1/3}_
+    - _B4 = {0, 1, 1/2, 1/3, 1/4}_
+    - ...
+  - **Not numerical**
+     - _A = {days of the week}_
+     - _Ba = {people who was there}_
+     - _Bmonday = {Mary, Sophie, Lucas}_
+     - _Bthursday = {Sophie, Clara}_
+     - _Bwednesday = {Mary, Lucas, Clara, Sophie}_
+     - ...
+
+
+  > [!note]
+  > I wrote the next two on my exercise book because writing down here as something comprehensible is too slow, I'll report just key things here
+- **Indexed union of sets**
+  - The **Union** is a set with all the elements **bt** at least one set of the family
+  - _{Aa | a **bt** A}_, _UNI-Aa with a **bt** A_
+  - _x **bt** UNI <=> **exist** a° **bt** A | x **bt** Aa°_
+- **Indexed intersection of sets**
+  - The **Intersection** is a set with all the element **bt** <ins>every</ins> set of the family
+  - _{Aa | a **bt** A}_, _INT-Aa with a **bt** A_
+  - _x **bt** INT <=> **for every** a **bt** A, x **bt** Aa
