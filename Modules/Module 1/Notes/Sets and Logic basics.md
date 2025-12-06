@@ -281,7 +281,7 @@ There are two names:
 
 > [!tip]
 > There's a fascinating thing that this book speaks about that I've never heard before or at least I've never read it in the same way I'm reading it now:
-> <br> Given that 0 is a subset for every set, writing the Power Set of 0 enhance the cardinality of every Power Set built increase exponentially
+> <br> Given that 0 is a subset for every set, writing the Power Set of 0 enhance the cardinality of every Power Set built exponentially:
 > <br> 0, 0 elements
 > <br> P(0) = {0}, 1 element
 > <br> P(P(0)) = {0, {0}} 2 elements
@@ -332,8 +332,8 @@ There are two names:
      - ...
 
 
-  > [!note]
-  > I wrote the next two on my exercise book because writing down here as something comprehensible is too slow, I'll report just key things here
+> [!note]
+> I wrote the next two on my exercise book because writing down here as something comprehensible is too slow, I'll report just key things here
 - **Indexed union of sets**
   - The **Union** is a set with all the elements **bt** at least one set of the family
   - _{Aa | a **bt** A}_, _UNI-Aa with a **bt** A_
