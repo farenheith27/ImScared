@@ -110,3 +110,31 @@ Time to go through Math, I'll open a new branch dedicated to the Module 1 and wo
 
 Let's see how much I actually forgot about Math.
 Wish me luck.
+
+## Day 18 - 11th December - 4.52
+Work goes by, I'm not dead, I'm just full of things to do. While working and studying I'm also organizing a Christmas holiday trip, some friend gatherings, New Years Eve... It's full and stressfull but funny.
+
+I'm going by with math, taking on topics I hardly understood in high school and they seemed more comprehensible today, don't understand why or how. I covered all the sets theory and I'm starting with functions, algebra and analytic geometry.
+
+Exercises are helping me fix mistakes or misconceptions where needed, I found ChatGPT sort of useless as "dynamic exercise book" because for some reasons it's uncapable of reading the PDF I'm studying on, so I'm doing it by myself (book itself provides correct answers and explanation) asking Gemini for further clarifying if necessary.
+
+I've also found I have 1y free Perplexity Pro as a PayPal user and Copilot Pro with my work Office Account, so I'm going to test this AIs as well in future (some IT workers told me Copilot is good at coding-related tasks). I'm also very very curious to try Grok and I think I'll test it for the most abstract topics. 
+
+Don't ask me further explanation on this, I think you already understood I'm mentally unstable so please don't knock on my glass too hard 'cause that could scare me.
+
+I'm a bit ashamed of myself for "throwing away" sunday and thursday free time. I worked night-shift and stayed home on thursday, but during day I went all-in on Dragon Age grinding side quests (and trying to find a reason to like the game at all, just I'm not here reviewing videogames right now lol). I regretted my behavior on the very evening. As I said to myself during last big trading mistake: 
+
+> I need more discipline
+
+Today specifically I'll go for a rush on exercises and my idea is to start next topics on my book, which is still the same you find in the notes. I'll update them also if I have some time, I just want to clarify that theese are going to be literal notes, while my big picture is going to be the building of the Repository Wiki. So there you'll find the final job.
+
+Writing notes is difficult because it's slow and limited compared to writing on paper, especially for a person like me who needs to visualize what's we're talking about to better understand. Also, organize the note itself to be easily readable again it's a jkob by itself. I've never found hard writing notes on Obsidian but I've never realized how it feels when you're trying to be fast, clear and optimized. Also, writing on Obsidian is really more fluent than writing on GitHub...
+
+I should have not underestimate that, now I'll deal with it.
+
+So, that's the situation up to date and my plans for the remaining month. I'll focus on the only book I began for now, it's well-made, clear, complete, technical and also focusing on one thing at a time it's always better than going for everything.
+
+> Focusing on one thing at a time it's always better than going for everything
+
+Sorry I'm trying to remind myself I know how to live, I just don't want to though.
+<br> Let's go for it. To the next update. All the best.
