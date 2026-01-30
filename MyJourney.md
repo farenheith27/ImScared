@@ -110,3 +110,24 @@ Time to go through Math, I'll open a new branch dedicated to the Module 1 and wo
 
 Let's see how much I actually forgot about Math.
 Wish me luck.
+
+## Day ? - 30th January 2026 - 20.56
+I'm writing this during a break in my shift.
+
+**It's been an hell of a month.**
+
+I simply cannot describe every thing that happened from mid-December till today. I've lost friends, family members, lots of money, mental peace, hope in every project, willpower... I have to thank my soulmate, my significant other, the missing half of my heart, who stood by me when everything around was collapsing. That's the worst start I was hoping for, honestly.
+
+BUT.
+
+I've learned (the fucking hard way) that this workflow is unsustainable. I started knowing the challenge was real, but not simply "hard in the useless way". There's no point in doing a 1-minute exercise in 10 minutes because I want to write it down on .md format. It's just stupid.
+
+That's the deal with myself.
+
+Because I also like to write music, write novels, workout, live a social life, study trading and much more, I'm going to keep updated this MyJourney file as a priority, while working on the old pen'n'paper and the only thing I'm going to put the very effort is going to be the Wiki. I want to build something I can use, a collection of references for the real work I'm trying to get done.
+
+Timing is the other obstacle: it's simply too much focusing for the size of what I'm learning. I'll go as fast as I can but I prefer going deeper than faster.
+
+I'll do it. I know I can. I know I will.
+
+That's a promise to myself.
