@@ -138,3 +138,54 @@ So, that's the situation up to date and my plans for the remaining month. I'll f
 
 Sorry I'm trying to remind myself I know how to live, I just don't want to though.
 <br> Let's go for it. To the next update. All the best.
+
+## Day 153 - 25ht April - 19.53
+**MY ANCESTORS ASKED ME TO LOCK F\*\*\*IN' IN SO I DID**
+Truth is: things never goes as planned when talking about life (and _my_ life in general).
+
+What happened, in short:
+* Lost a friend
+* Lost a family member
+* Gradually lost focus
+* Sometimes I just "loose myself" for a while, that happened again
+* Almost lost my soulmate because of how hard I was focusing
+
+**That last point, that's everything.**
+
+What I understood:
+> You cannot focus on what is not made for you
+
+A little bit of romance so beware: <br>
+
+I was going rock hard on math when suddendly I found the _what-I-called_ "Function of Everything"
+
+$ℝ^n$
+
+Thinking that something so simple can describe what we can neither imagine cracked something inside me. My brain is built for this, literally finding every little thing that could disctract him from doing what he must do. That was a golden one, you can tell.
+I was frustrating so hard on math that math itself started to make me sick. I wa refusing to go further evenif I tried with my best. I was just not learning anything, but doom-reading chapters over chapters.
+
+I needed another way to go down this.
+
+That was my cheat sheed for proceeding:
+| What I needed | What I did | Why |
+| --- | --- | --- |
+| Math | Aboslutly nothing | Because I was refusing the topic, I know math and when I saw it was just so easy for me to take on it again I lost interest. My second thought was _"I can manage to understand and learn this while doing something else more attractive"_ and that worked |
+| A real AI | Took three month of Gemini PRO for free, completed a Gemini Generative AI Course, Started Anthropic Skilljar (I'm currently on it) | ChatGPT become useless in zero time: refused to read documents I gave it, my patience is low when I'm working on something hard |
+| A Team, more incentives | Took Claude Sonnet 4.6 and programmed a team of agents with .md instructions to help me work on a website (see down here) then took Gemini Pro and programmed a Gem to create other Gems | I need things to do, I need topics to learn, I need people to discuss with, **I need to see the things I make became alive** |
+| A real reason to study Cryptography | Started programming a website to use as a portfolio | I have a dream, but I've never tried to write down this dream. It seems stupid but the difference between childs and grown adults (which I'm not, let's be clear 'bout that) is the effort: childs can only dream, adults have means to achieve their dreams. I cannot **JUST** dream about something I think could change the world in better. That's an insult for myself. One day I just decided to structure my dream, to give Him and identity, to paint His details and write His story. It's still under construction, but you can read more in the following days |
+| Full control and understanding | Started building website with Deepsite, Claude and Gemini, then switched to learning HTML, SQL, CSS, Javascript to have full control on what I'm doing | Most AIs are good but they change week from week. I can't leave in their hands something which is mine, especially if sensitive datas could be involved. That's why I started learning basics of fron-end by myself |
+| Programming | Programmed (almost finished) sort of a Navigator for railways, that takes every element of a railway from a database and put them down in order, creating a route map | One day I was just bored and started learning Python. I learned Python in something like one month. I'm not joking. So I decided to prove myself I was worth of this power - ```yeah sometimes I drink before taking decision, is more fun``` - and while working I got THE idea that could improve my work, so I started doing this madness to master Python in less time as possibile. Worked so good I went down again in the rabbit hole, with next table entry |
+| Rust | Yeah exactly, I'm studying Rust right now | Nothing more to say, this is just pure chaos distilled into a learning pathway as itself |
+
+To prove I'm not joking, I'm putting links in this repository Wiki as soon as my fingers stop hurting, with links for the entries of this MyJourney.md file.
+> You would not see the Python project repository for now because it works with sensitive datas and my plan is to sold it when ready <br>
+> That's not a win for me, I'd like to put a sort of "demo" version in future
+
+Basically this Journey went from _full-throttle_ to _engine failure_ and _TOTHEMOON_ in a relative short time.
+
+I'm doing all of this for myself and the people who believe. <br>
+Not "in me", who just believe in something.
+
+Never, ever, stop believing.
+
+Stay yourself.
